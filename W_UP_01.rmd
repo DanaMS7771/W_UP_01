@@ -54,6 +54,7 @@ boxplot(pushups~position,data=mydata)
 ```{r}
 favstats(pushups~position,data=mydata)
 ```
+The average number of push-ups that a line player can do is about 1/3 of the amount of an average skill player.
 
 ## Inferential Results
 
