@@ -44,7 +44,7 @@ $H_A$: The average number of pushups done by line players is statistically diffe
 boxplot(pushups~position,data=mydata)
 ```
   
- 
+ Looking at the column in the chart above, the left represents line positions, and the right are skill positions. The height of the skilled box is much higher. The 25th percentile on the skilled players is higher than the 75th percentile of the line players. This seems to indicate that skilled positions can do more push-ups than line positions.
 
 <!--Graphical results here. Make sure to show your code. Provide appropriate labels for axes, giving units if possible, and provide a good title for the graph, too. Use the graphical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
